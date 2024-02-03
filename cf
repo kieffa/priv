@@ -2,6 +2,7 @@
   "allow": true,
   "server-version": "100",
   "update-URL": "",
+  "disclaimer" : "https://raw.githubusercontent.com/kieffa/priv/main/adultd",
 "stt": {
     "t1": "",
     "t2": "",
