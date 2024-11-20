@@ -22,7 +22,8 @@
     "t9": "",
     "t10": "MkbNlBOaYFppuvYvRJJf3DDD40D2F68DBDE5batMnhnZGUnPCQgSXpUW",
     "t11": "yRvcxSnFPxwsYJtWnMaTe25fa0c3-249e-4523-83c2-f684aaa84e3cWHcDECvodSgmjfMJxfKp",
-    "t12": "vyjGZaJJifEORDKuChjU0e564aa1-4bc9-40b8-991a-d79a737d7ceaSDlkGYxjzowFIcOOtEsh"
+    "t12": "",
+    "t13": ""
 },
 "spc": {
     "s1": {
@@ -61,9 +62,21 @@
       "h": "5.161.209.176",
       "p": 9120
     },
-  "s10": {
+    "s10": {
       "h": "",
       "p": 80
+    },
+    "s11": {
+      "h": "",
+      "p": 80
+    },
+    "s12": {
+      "h": "",
+      "p": 80
+    },
+    "s13": {
+      "h": "188.245.104.81",
+      "p": 8000
     }
 },
 "smt":  {
@@ -72,13 +85,14 @@
     "st3f": 1440,
     "st4f": 1440,
     "st5f": 1440,
-    "st6f": 1440,
+    "st6f": 0,
     "st7f": 1440,
     "st8f": 1440,
     "st9f": 1440,
     "st10f": 1440,
     "st11f": 1440,
-    "st12f": 0
+    "st12f": 0,
+    "st13f": 1440
 },
 "plTv": [
 "All", 
